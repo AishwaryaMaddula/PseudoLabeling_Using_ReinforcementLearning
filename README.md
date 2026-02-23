@@ -113,8 +113,12 @@ capstone
 ```
 
 ---
+### Running the Project
 
-### 4. Research Background
+Refer readme in `src/` folder.
+
+---
+### Research Background
 
 This approach is inspired by concepts from following research papers:
 
